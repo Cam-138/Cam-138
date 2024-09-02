@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there i am a student studying A levels in maths, computer science and chemistry
 
 <!--
 **Cam-138/Cam-138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
